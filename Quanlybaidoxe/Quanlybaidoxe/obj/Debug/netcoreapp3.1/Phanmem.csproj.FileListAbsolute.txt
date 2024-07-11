@@ -1,0 +1,133 @@
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.exe
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.deps.json
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.runtimeconfig.json
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.runtimeconfig.dev.json
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.pdb
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.AssemblyReference.cache
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.DangNhap.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.DashBoard.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ChiTietPhieuThu.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.DoXe.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.FormDKyXe.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLGiaVe.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLKhachHang.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLNhanVien.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLPhieuThanhToan.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLTheGuiXe.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThanhToanXeRa.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKe.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKeDoanhThu.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinCaNhan.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinXe.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.BaiDoXe.resources
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.GenerateResource.cache
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.AssemblyInfoInputs.cache
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.AssemblyInfo.cs
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.CoreCompileInputs.cache
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.CopyComplete
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.dll
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.pdb
+C:\Users\itvip\Downloads\Android\Android\C#\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.genruntimeconfig.cache
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.AssemblyReference.cache
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.pdb
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.exe
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.deps.json
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.runtimeconfig.json
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.runtimeconfig.dev.json
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.pdb
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.DangNhap.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.DashBoard.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ChiTietPhieuThu.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.DoXe.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.FormDKyXe.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLGiaVe.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLKhachHang.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLNhanVien.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLPhieuThanhToan.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLTheGuiXe.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThanhToanXeRa.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKe.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKeDoanhThu.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinCaNhan.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinXe.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.BaiDoXe.resources
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.GenerateResource.cache
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.AssemblyInfoInputs.cache
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.AssemblyInfo.cs
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.CoreCompileInputs.cache
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.Up2Date
+C:\Users\A\Downloads\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.genruntimeconfig.cache
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.exe
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.deps.json
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.runtimeconfig.json
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.runtimeconfig.dev.json
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Phanmem.pdb
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.AssemblyReference.cache
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.DangNhap.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.DashBoard.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ChiTietPhieuThu.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.DoXe.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.FormDKyXe.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLGiaVe.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLKhachHang.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLNhanVien.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLPhieuThanhToan.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLTheGuiXe.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThanhToanXeRa.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKe.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKeDoanhThu.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinCaNhan.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinXe.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.BaiDoXe.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.Properties.Resources.resources
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.GenerateResource.cache
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.AssemblyInfoInputs.cache
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.AssemblyInfo.cs
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.CoreCompileInputs.cache
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.csproj.Up2Date
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.dll
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.pdb
+D:\DATT\ProjectSE (1)\ProjectSE\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Phanmem.genruntimeconfig.cache

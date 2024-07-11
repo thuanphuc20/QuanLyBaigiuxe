@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|d:\\datt\\projectse (1)\\projectse\\quanlybaidoxe\\quanlybaidoxe\\bs layer\\bldoxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:bs layer\\bldoxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|d:\\datt\\projectse (1)\\projectse\\quanlybaidoxe\\quanlybaidoxe\\form layer\\nguoiquanlyui\\doxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:form layer\\nguoiquanlyui\\doxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|d:\\datt\\projectse (1)\\projectse\\quanlybaidoxe\\quanlybaidoxe\\form layer\\nguoiquanlyui\\qlnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:form layer\\nguoiquanlyui\\qlnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|d:\\datt\\projectse (1)\\projectse\\quanlybaidoxe\\quanlybaidoxe\\form layer\\nguoiquanlyui\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:form layer\\nguoiquanlyui\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\form layer\\nguoiquanlyui\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:form layer\\nguoiquanlyui\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|d:\\datt\\projectse (1)\\projectse\\quanlybaidoxe\\quanlybaidoxe\\form layer\\nguoiquanlyui\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:form layer\\nguoiquanlyui\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\form layer\\nguoiquanlyui\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:form layer\\nguoiquanlyui\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|d:\\datt\\projectse (1)\\projectse\\quanlybaidoxe\\quanlybaidoxe\\bs layer\\blkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:bs layer\\blkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|d:\\datt\\projectse (1)\\projectse\\quanlybaidoxe\\quanlybaidoxe\\form layer\\nguoiquanlyui\\doxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9302362-2E80-4E57-A01E-7C23EB2E28EC}|Phanmem.csproj|solutionrelative:form layer\\nguoiquanlyui\\doxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLDoXe.cs",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\BS Layer\\BLDoXe.cs",
+              "RelativeDocumentMoniker": "BS Layer\\BLDoXe.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\BS Layer\\BLDoXe.cs",
+              "RelativeToolTip": "BS Layer\\BLDoXe.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T03:45:17.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "Form Layer\\NguoiQuanLyUI\\QLNhanVien.Designer.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLNhanVien.Designer.cs",
+              "RelativeToolTip": "Form Layer\\NguoiQuanLyUI\\QLNhanVien.Designer.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAQwEYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:16:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLNhanVien.cs",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs",
+              "RelativeDocumentMoniker": "Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs",
+              "RelativeToolTip": "Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAIAzwDkBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:13:40.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs",
+              "RelativeDocumentMoniker": "Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs [Design]",
+              "RelativeToolTip": "Form Layer\\NguoiQuanLyUI\\QLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:13:36.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs",
+              "RelativeDocumentMoniker": "Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs [Design]",
+              "RelativeToolTip": "Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:08:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLKhachHang.cs",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs",
+              "RelativeDocumentMoniker": "Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs",
+              "RelativeToolTip": "Form Layer\\NguoiQuanLyUI\\QLKhachHang.cs",
+              "ViewState": "AQIAAHMCAAAAAAAAAAAqwOABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:04:04.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLKhachHang.cs",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\BS Layer\\BLKhachHang.cs",
+              "RelativeDocumentMoniker": "BS Layer\\BLKhachHang.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\BS Layer\\BLKhachHang.cs",
+              "RelativeToolTip": "BS Layer\\BLKhachHang.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAmwHoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:57:31.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoXe.cs",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\DoXe.cs",
+              "RelativeDocumentMoniker": "Form Layer\\NguoiQuanLyUI\\DoXe.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\DoXe.cs",
+              "RelativeToolTip": "Form Layer\\NguoiQuanLyUI\\DoXe.cs",
+              "ViewState": "AQIAAMMBAAAAAAAAAAArwHcBAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:55:31.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoXe.cs [Design]",
+              "DocumentMoniker": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\DoXe.cs",
+              "RelativeDocumentMoniker": "Form Layer\\NguoiQuanLyUI\\DoXe.cs",
+              "ToolTip": "D:\\DATT\\ProjectSE (1)\\ProjectSE\\Quanlybaidoxe\\Quanlybaidoxe\\Form Layer\\NguoiQuanLyUI\\DoXe.cs [Design]",
+              "RelativeToolTip": "Form Layer\\NguoiQuanLyUI\\DoXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:40:11.608Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
